@@ -1,4 +1,4 @@
-## Olá!
+## Olá! ✌
 ## Eu sou o Lorenzo
 
 - 🔭 Hoje estudo Front-End
