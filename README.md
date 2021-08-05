@@ -17,6 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <a><img align="right" alt="rocket" height="120" width="140" src="https://media.giphy.com/media/jfF6mIPumEzN9QW0kL/giphy.gif"></a>
 </div>
+ 
   ##
    
   ![Snake animation](https://github.com/Lorenzoox/Lorenzoox/blob/main/github-contribution-grid-snake.svg)
