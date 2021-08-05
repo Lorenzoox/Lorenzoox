@@ -4,10 +4,10 @@
 - 🌱 Estudando HTML e CSS
 - 😄 Pronouns: ele/dele
 
- <div>
-  <a href="https://github.com/Lorenzoox">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lorenzoox97&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzoox97&langs_count=16&theme=midnight-purple"/>
+ <div align="center">
+  <a href="https://github.com/Metheus97">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Metheus97&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metheus97&langs_count=16&theme=midnight-purple"/>
 </div>
   
  <div style="display: inline_block"><br>
