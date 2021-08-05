@@ -33,6 +33,6 @@
   
 <div style="display: inline_block"><br>
   
-  ![Snake animation](https://github.com/Lorenzoox/Lorenzoox/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Lorenzo3107/Lorenzo3107/blob/output/github-contribution-grid-snake.svg)
   
 </div>
