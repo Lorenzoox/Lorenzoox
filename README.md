@@ -1,7 +1,7 @@
 ## Olá! ✌
 ## Eu sou o Lorenzo
 
-- 😎 Tenho 21 anos
+- 😎 Tenho 15 anos
 - 🔭 Hoje estudo Front-End
 - 🌱 Estudando HTML e CSS
 - 😄 Pronouns: ele/dele
