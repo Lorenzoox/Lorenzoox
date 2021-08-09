@@ -4,7 +4,6 @@
 - 😎 Tenho 15 anos
 - 🔭 Hoje estudo Front-End
 - 🌱 Estudando HTML e CSS
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Lorenzoox">
